@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+tmp/
+cache/
+outputs/
+PRIVATE_UPLOAD_CHECKLIST_CN.md
