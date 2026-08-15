@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated manuscript and the original data providers."
+title: "Minimal reproducibility materials for the 2025 Kamchatka GRACE-FO gravity anomaly study"
+type: dataset
+authors:
+  - family-names: Wan
+    given-names: Hongyang
+  - family-names: Fang
+    given-names: Yinxia
+  - family-names: Luo
+    given-names: Xiaowen
+repository-code: "https://github.com/why921/kamchatka-gracefo-data"
+version: 0.1.0
+date-released: 2026-08-15

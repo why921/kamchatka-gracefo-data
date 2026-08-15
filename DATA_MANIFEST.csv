@@ -1,0 +1,3 @@
+path,size_bytes,sha256
+data/finite_fault_gravity_fields.npz,55961,e9270f4b522580f64cb2b78afab2996b78c94c80209533387b18a2f9d461c4b2
+data/monthly_gravity_fields.npz,959982,fd94f45272a0e21ced538092fe8ff3ae7fcc29b51cf0a3a6c1adc248b80e6849
